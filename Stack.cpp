@@ -1,8 +1,4 @@
 #include "Stack.h"
-#include <stdlib.h>
-#include <assert.h>
-#include <string.h>
-#include <stdio.h>
 
 Stack_d ConstructStack_d()
 {
